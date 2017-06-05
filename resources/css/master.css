@@ -1,0 +1,47 @@
+/*Universal Styles*/
+html {
+  font-family: 'Lato', sans-serif;
+  font-size: 10px;
+  color:dimgray;
+}
+
+a {
+  text-decoration: none;
+  color:dimgray;
+}
+
+/*div,
+span {
+  border: 1px solid lightgray;
+}*/
+
+strong {
+  font-weight: 900;
+}
+
+.lightgray {
+  color:lightgray;
+}
+
+.container {
+  display:flex;
+}
+
+/*Header Styles*/
+.nav {
+  padding: 1.6rem;
+  height: 3.2rem;
+  display: fixed;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.8rem;
+}
+
+.logo, .nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav span {
+  padding: 0 .8rem;
+}
