@@ -74,7 +74,7 @@ strong {
 }
 
 .banner-text {
-  padding: 0 6rem 0 4rem;
+  padding: 0 4rem;
 
 }
 .banner-text h1 {
@@ -90,9 +90,10 @@ strong {
 }
 
 .banner .cta-button {
-  padding: .8rem;
+  padding: 1.2rem;
   background-color: dimgray;
   text-align: center;
+  width: 60%;
 }
 
 .banner .cta-button span {
